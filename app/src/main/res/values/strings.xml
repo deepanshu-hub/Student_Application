@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="presents">Presents</string>
+    <string name="current_percentage">Current Percentage</string>
+    <string name="skip_classes">No. of classes to be considered in case of emergency</string>
+    <string name="leaves">No. of days to be considered in case of emergency</string>
+    <string name="final_percentage">Minimum Percentage Required</string>
+    <string name="lectures">Lectures</string>
+    <string name="attendance_calculator">ATTENDANCE CAlCULATOR</string>
+    <string name="attended_lectures">ATTENDED LECTURES</string>
+    <string name="reset">RESET</string>
+    <string name="pridict">PREDICT</string>
+    <string name="lectures_in_a_day">LECTURES IN A DAY</string>
+    <string name="total_lectures">TOTAL LECTURES</string>
+    <string name="average_maximum">average/maximum</string>
+    <string name="classes_you_have_to_take">No of classes required to get minimum 75%</string>
+    <string name="days_you_have_to_come">No. of days required to get minimum 75%</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
